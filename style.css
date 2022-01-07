@@ -1,0 +1,67 @@
+#container{
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px 150px 100px 150px;
+  border-radius: 30px;
+  text-align: left;
+  background: lightblue;
+}
+
+h1{
+  font-size: 64px;
+  margin-bottom: -10px;
+}
+
+h2{
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+h3{
+  font-size: 28px;
+  margin-bottom: -10px;
+}
+
+#experience{
+  font-size: 40px;
+}
+
+h4{
+  font-size: 20px;
+  margin-bottom: -12px;
+}
+
+li{
+  font-size: 16px;
+  text-align: left;
+}
+
+#core p{
+  margin-bottom: -8px;
+  padding-left: 100px;
+  
+}
+
+#experience h2{
+  font-size:16px;
+  margin-bottom: -10px;
+}
+
+#experience p{
+  font-size: 16px;
+  margin-bottom: -20px;
+}
+
+#education{
+  font-size: 36px;
+  
+}
+
+h5{
+  font-size: 14px;
+  margin-bottom: -19px
+}
+
+#education h2{
+  margin-top: 50px
+}
